@@ -40,7 +40,7 @@ app.use(function(err, req, res, next) {
 });
 
 
-mongoose.connect('mongodb+srv://dbUser:user123@assignment.oaubb.mongodb.net/terminal?retryWrites=true&w=majority',
+mongoose.connect("mongodb+srv://sefi123:sefi12345@sefi1.rud7y.mongodb.net/Faculty?retryWrites=true&w=majority"),
 { 
   useNewUrlParser: true,
   useUnifiedTopology: true 

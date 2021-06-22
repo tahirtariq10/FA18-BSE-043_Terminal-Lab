@@ -7,11 +7,9 @@ a {
   color: #00b7ff;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-}
+
 .rate {
+  color: sienna;
   float: left;
   height: 46px;
   padding: 0 10px;
@@ -54,6 +52,8 @@ a {
 }
 
 body {
+  color: coral;
+  background-color: cyan;
   font-family: Arial;
   margin: 0 auto; /* Center website */
   max-width: 800px; /* Max width */
@@ -131,6 +131,10 @@ body {
   width: 15%;
   height: 18px;
   background-color: #f44336;
+}
+
+.navbar{
+  background-color:darkorange;
 }
 
 /* Responsive layout - make the columns stack on top of each other instead of next to each other */
